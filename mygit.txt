@@ -6,3 +6,4 @@ git change
 dog
 lall
 张晶晶
+Creating a new branch is quick AND simple.
